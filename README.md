@@ -1,4 +1,4 @@
-### project1
+# Oil price vs Dow Jones index
 
 ## Data:
 a. Houston oil price weekly: series_id=PET.EMM_EPM0_PTE_Y44HO_DPG.W
@@ -11,4 +11,5 @@ link: https://fred.stlouisfed.org/series/SP500
 1. oil price after time 
 2. DOW Jones over time
 3. oil price vs. DOW Jones
-4. regression and correlation coef for chart 3
+4. oil price vs. DOW Jones before 2008 crisis
+5. regression and correlation coef for chart 3
