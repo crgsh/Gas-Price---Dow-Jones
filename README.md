@@ -1,15 +1,15 @@
-# Oil price vs Dow Jones index
+# Compare Houston Gas price vs Dow Jones index
 
 ## Data:
-a. Houston oil price weekly: series_id=PET.EMM_EPM0_PTE_Y44HO_DPG.W
+a. Houston Weekly Gas Price: series_id=PET.EMM_EPM0_PTE_Y44HO_DPG.W
 link: https://www.eia.gov/opendata/qb.php?sdid=PET.EMM_EPMRR_PTE_Y44HO_DPG.W
 
-b. Dow Jones industrial average:
+b. Dow Jones Industrial Average:
 link: https://fred.stlouisfed.org/series/SP500
 
 ## Objectives
-1. oil price after time 
-2. DOW Jones over time
-3. oil price vs. DOW Jones
-4. oil price vs. DOW Jones before 2008 crisis
-5. regression and correlation coef for chart 3
+1. Identify Gas Price Over Time 
+2. Identify DOW Trend Over Time
+3. Compare Gas Price and DOW
+4. Gas vs. DOW Before 2008 Financial Crisis
+5. Run Regression and Correlation
