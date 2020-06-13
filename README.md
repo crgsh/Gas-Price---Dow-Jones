@@ -1,4 +1,4 @@
-# Compare Houston Gas price vs Dow Jones index
+# Compare Houston Gas price vs Dow Jones
 
 ## Data:
 a. Houston Weekly Gas Price: series_id=PET.EMM_EPM0_PTE_Y44HO_DPG.W
